@@ -70,7 +70,7 @@ email: "duancy3@mail2.sysu.edu.cn"
 highlight_name: true
 ---
 
-Congyuan Duan is a student in Sun Yat-sen University. Her research interests include....
+Congyuan Duan is a student in Sun Yat-sen University. Her research interests include...
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
