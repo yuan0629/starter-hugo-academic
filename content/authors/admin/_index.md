@@ -67,6 +67,5 @@ education:
 highlight_name: true
 ---
 
-Congyuan Duan is a student in Sun Yat-sen University.
+Hi!:wave:
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
