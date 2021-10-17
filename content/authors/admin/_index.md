@@ -67,5 +67,5 @@ education:
 highlight_name: true
 ---
 
-Hi!:wave:
+Hi!:wave:I am learning about how to use Hugo:laughing:More content will be coming soon!
 
