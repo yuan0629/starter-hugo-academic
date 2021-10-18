@@ -11,4 +11,4 @@ weight: 10  # section position on page
 #  columns: '1'
 ---
 
-I am working hard!:muscle:
+I am working hard!:muscle::book:
