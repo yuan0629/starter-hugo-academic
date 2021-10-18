@@ -11,4 +11,4 @@ weight: 10  # section position on page
 #  columns: '1'
 ---
 
-More and more good news!:v:
+More and more good news!:v::smiley:
