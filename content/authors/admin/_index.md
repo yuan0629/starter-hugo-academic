@@ -69,5 +69,5 @@ highlight_name: true
 
 Hi!:wave:I am learning about how to use Hugo:laughing:More content will be coming soon!
 
-In my free time, I like playing badminton:badminton:, climbing hills:mountain: and I would like to try more outdoor activities:camping:!
+In my free time, I like playing badminton:badminton:, going hiking:mountain: and I would like to try more outdoor activities:camping:!
 
