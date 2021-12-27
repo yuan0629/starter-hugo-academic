@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Publications
+title: News
 subtitle:
 weight: 10  # section position on page
 #design:
@@ -11,4 +11,4 @@ weight: 10  # section position on page
 #  columns: '1'
 ---
 
-I am working hard!:muscle::book:
+More and more good news!
