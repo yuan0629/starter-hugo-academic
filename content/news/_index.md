@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: News
+title: Publications
 subtitle:
 weight: 10  # section position on page
 #design:
@@ -11,9 +11,4 @@ weight: 10  # section position on page
 #  columns: '1'
 ---
 
-<<<<<<< HEAD
-2021
-
-=======
-More and more good news!:v:
->>>>>>> parent of 9f0935e (Update _index.md)
+I am working hard!:muscle::book:
