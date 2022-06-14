@@ -11,7 +11,7 @@ superuser: true
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Sun Yat-sen University
-#  url: https://www.stanford.edu/
+#  url: .com website
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable  matter.
@@ -61,7 +61,7 @@ education:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "duancy3@mail2.sysu.edu.cn"
+email: "duancy3@mail2.sysu.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
