@@ -10,8 +10,8 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Sun Yat-sen University
-- name: duancy3@mail2.sysu.edu.cn
+- name: The Hong Kong University of Science and Technology
+- name: cduanac@connect.ust.hk
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable  matter.
