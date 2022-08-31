@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
+  - course: Phd in Mathematics
+    institution: The Hong Kong University of Science and Technology
+    year: 2022-
   - course: BSc in Statistics
     institution: Sun Yat-sen University
     year: 2018-2022
