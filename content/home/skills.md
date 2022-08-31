@@ -9,6 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
+# title: <p align="left"><font size=10>Honors</font></p>
 title: <font size=10>Honors</font>
 #subtitle:
 ---
