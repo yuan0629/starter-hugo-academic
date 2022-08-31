@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Phd in Mathematics
+  - course: PhD in Mathematics
     institution: The Hong Kong University of Science and Technology
     year: 2022-
   - course: BSc in Statistics
