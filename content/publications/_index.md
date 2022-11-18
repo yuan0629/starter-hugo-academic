@@ -11,4 +11,4 @@ weight: 10  # section position on page
 #  columns: '1'
 ---
 
-I am working hard!:muscle::book:
+1, Spatiotemporal Varying Coefficient Model for Respiratory Disease Mapping in Taiwan. Feifei Wang, Congyuan Duan, Yang Li, Hui Huang, and Ben-Chang Shia. _Biostatistics(To appear)_
